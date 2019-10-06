@@ -34,6 +34,7 @@ about_content: | # this will include new lines to allow paragraphs
   <mark>Objective-C</mark>
   <mark>Architecture Patterns</mark>
   <mark>Cocoa framework</mark>
+  <mark>RxSwift</mark>
   <mark>Fastlane</mark>
 
 # Projects Section
