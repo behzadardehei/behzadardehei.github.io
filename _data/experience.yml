@@ -1,0 +1,48 @@
+- layout: left
+  company: WHIP Mobility
+  link: whipmobility.com
+  job_title: Senior iOS Developer (Remote)
+  dates: May 2019 - Present
+  quote: >
+    Empowering dealerships to provide on-demand, direct-to-vehicle service for their customers.
+  description: | # this will include new lines to allow paragraphs
+
+
+- layout: left
+  company: MPH Club
+  link: mphclub.com
+  job_title: Senior iOS Developer (Remote)
+  dates: Dec 2018 - Apr 2019
+  quote: >
+    Established in 2013 as a potential frontrunner in Miami’s high-end rental car market, mph club® has positioned itself as the leader in luxury car rental of South Florida.
+  description: | # this will include new lines to allow paragraphs
+
+
+- layout: left
+  company: Round Table Apps
+  link: roundtableapps.com
+  job_title: Senior iOS Developer
+  dates: May 2016 - Dec 2018
+  quote: >
+    At Round Table Apps, our mission is to create digital experiences that help organisations achieve their transformative goals.
+  description: | # this will include new lines to allow paragraphs
+
+
+- layout: left
+  company: Yara Information Technology
+  link: yaraholding.com
+  job_title: Senior iOS Developer
+  dates: May 2015 - May 2016
+  quote: >
+    Yara is the Iran’s most active and innovative company in area of virtual money market, online credit/debit payment applications, electronic games and magazines.
+  description: | # this will include new lines to allow paragraphs
+
+
+- layout: left
+  company: TenthWindow
+  link: tenthwindow.com
+  job_title: Senior iOS Developer
+  dates: Apr 2014 - Mar 2015
+  quote: >
+    We live, breathe and spend our day creating great mobile apps.
+  description: | # this will include new lines to allow paragraphs

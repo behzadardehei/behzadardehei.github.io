@@ -1,0 +1,67 @@
+- layout: top-middle
+  name: mph club
+  link: apps.apple.com/us/app/mph-club/id1411572568
+  # github: sproogen/resume-theme
+  quote: >
+    mph club is a premium vehicle rental platform.
+  description: | # this will include new lines to allow paragraphs
+
+
+- layout: top-middle
+  name: RedSix
+  link: apps.apple.com/us/app/redsix/id1435904131
+  # github: sproogen/resume-theme
+  quote: >
+    This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+  description: | # this will include new lines to allow paragraphs
+
+
+- layout: top-middle
+  name: Starcade
+  link: apps.apple.com/us/app/starcade/id1323525983
+  # github: sproogen/resume-theme
+  quote: >
+    Starcade is an addictive online arcade. It’s survival of the fittest. Gaining points upgrades your armour, weaponry and thruster systems. Beware though, the stronger you get, the bigger target you become with more points awarded for destroying higher class ships. Choose specific level up options when you get stronger.
+  description: | # this will include new lines to allow paragraphs
+
+
+- layout: top-middle
+  name: My Sumo
+  link: apps.apple.com/au/app/my-sumo/id1162656504
+  # github: sproogen/resume-theme
+  quote: >
+    With the Sumo App you can customise any salad, wrap or bowl, pay online and pick up in store. It's the fastest way to grab healthy food on the go. Earn Sumo Coins with every purchase or take a walking challenge to earn more coins.
+  description: | # this will include new lines to allow paragraphs
+
+
+- layout: top-middle
+  name: Zaferoon
+  link: itunes.apple.com/us/app/z-frwn/id1054993123?mt=8
+  # github: sproogen/resume-theme
+  quote: >
+    This is probably one of the greatest app ever created for cooking in Iran.
+  description: | # this will include new lines to allow paragraphs
+
+
+- layout: top-middle
+  name: Couponchi
+  link: couponchi.net/Home/Apps
+  # github: sproogen/resume-theme
+  quote: >
+  description: | # this will include new lines to allow paragraphs
+
+
+- layout: top-middle
+  name: Art Experience
+  link: itunes.apple.com/us/app/hnr-w-tjrbh/id1001086996?mt=8
+  # github: sproogen/resume-theme
+  quote: >
+  description: | # this will include new lines to allow paragraphs
+
+
+- layout: top-middle
+  name: Hamyar Moshtari Hamrah
+  link: itunes.apple.com/us/app/hmyar-mshtry/id680159260?mt=8
+  # github: sproogen/resume-theme
+  quote: >
+  description: | # this will include new lines to allow paragraphs
